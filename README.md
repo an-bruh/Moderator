@@ -14,7 +14,7 @@ Ambos desenvolvidos pela **OpenAI**.
 
 Para utilizar o moderador, basta preencher as seguintes variáveis:
 
-- `message` → conteúdo da mensagem  
+- `text` → conteúdo da mensagem  
 - `date` → data de envio  
 - `user` → usuário que enviou a mensagem  
 
